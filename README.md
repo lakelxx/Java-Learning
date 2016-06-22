@@ -1,2 +1,1 @@
-# MyPapplet
-Papplet
+# Java Learning on Coursera
